@@ -1,9 +1,10 @@
 tensorflow
 pandas
-python=3.11
+python==3.11
 numpy
 scikit-learn
 tensorboard
 matplotlib
 streamlit
+
 
